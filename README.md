@@ -1,5 +1,5 @@
 # parallax-scrolling-website
-Here’s a well-structured and professional **README description** you can use for your GitHub repository, based on your **Parallax Adventure website** created under the guidance of **CodeHelp**:
+
 
 ---
 
