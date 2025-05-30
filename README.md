@@ -12,7 +12,7 @@ The theme of the project is **Adventure**, with immersive background images and 
 <hr>
 
 ### 🚀 Features
-<br><br>
+<br>
 * 🌌 Parallax scrolling effect using pure CSS
   <br>
 * 🧭 Adventure-themed layout and imagery<br>
