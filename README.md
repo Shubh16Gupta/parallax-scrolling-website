@@ -21,36 +21,33 @@ The theme of the project is **Adventure**, with immersive background images and 
 * 🎨 Custom styling with CSS for smooth transitions and readability<br>
 <br>
 <hr><br>
-### 🛠️ Technologies Used
-<br><br>
-* **HTML5** – Semantic markup<br>
-* **CSS3** – Custom styling, positioning, and effects<br>
-* **VS Code** – Code editor<br>
-* **Git & GitHub** – Version control and publishing<br>
+<h3>🛠️ Technologies Used</h3>
+
+⚫️ <strong>HTML5</strong> – Semantic markup<br>
+⚫️ <strong> CSS3 </strong>– Custom styling, positioning, and effects<br>
+⚫️ <strong>VS Code </strong> – Code editor<br>
+⚫️ <strong>Git & GitHub</strong> – Version control and publishing
 <br>
 <hr>
 <br>
-### 📚 Project Goal
-<br><br>
+<h3>📚 Project Goal</h3>
 This project was created to:
 <br>
-* Understand how parallax scrolling works<br>
-* Improve frontend design skills<br>
-* Learn and apply clean code practices<br>
-* Explore website responsiveness and layout tricks<br>
-<br>
+⚫️ Understand how parallax scrolling works<br>
+⚫️ Improve frontend design skills<br>
+⚫️ Learn and apply clean code practices<br>
+⚫️ Explore website responsiveness and layout tricks<br>
 <hr>
 <br>
-### 📄 License
-<br><br>
+<h3>📄 License</h3>
 This project is open-source and available under the [MIT License](LICENSE).
 <br>
 <hr>
 <br>
-### 🙌 Acknowledgements
-<br><br>
-* Special thanks to **CodeHelp by Babbar** for the project walkthrough and guidance.<br>
-* Inspired by real-world parallax scrolling websites and interactive UI principles.<br>
+<h3>🙌 Acknowledgements</h3>
+
+⚫️ Special thanks to **CodeHelp by Babbar** for the project walkthrough and guidance.<br>
+⚫️ Inspired by real-world parallax scrolling websites and interactive UI principles.<br>
 <hr>
 
 
