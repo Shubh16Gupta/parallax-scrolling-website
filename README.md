@@ -20,16 +20,14 @@ The theme of the project is **Adventure**, with immersive background images and 
 * 🎯 Clean and organized HTML structure<br>
 * 🎨 Custom styling with CSS for smooth transitions and readability<br>
 <br>
-<hr><br>
+<hr>
 <h3>🛠️ Technologies Used</h3>
-
 ⚫️ <strong>HTML5</strong> – Semantic markup<br>
 ⚫️ <strong> CSS3 </strong>– Custom styling, positioning, and effects<br>
 ⚫️ <strong>VS Code </strong> – Code editor<br>
 ⚫️ <strong>Git & GitHub</strong> – Version control and publishing
 <br>
 <hr>
-<br>
 <h3>📚 Project Goal</h3>
 This project was created to:
 <br>
@@ -38,14 +36,11 @@ This project was created to:
 ⚫️ Learn and apply clean code practices<br>
 ⚫️ Explore website responsiveness and layout tricks<br>
 <hr>
-<br>
 <h3>📄 License</h3>
 This project is open-source and available under the [MIT License](LICENSE).
 <br>
 <hr>
-<br>
 <h3>🙌 Acknowledgements</h3>
-
 ⚫️ Special thanks to **CodeHelp by Babbar** for the project walkthrough and guidance.<br>
 ⚫️ Inspired by real-world parallax scrolling websites and interactive UI principles.<br>
 <hr>
