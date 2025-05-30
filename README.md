@@ -41,7 +41,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 <br>
 <hr>
 <h3>🙌 Acknowledgements</h3>
-⚫️ Special thanks to **CodeHelp by Babbar** for the project walkthrough and guidance.<br>
+⚫️ Special thanks to <strong>CodeHelp by Babbar</strong>for the project walkthrough and guidance.<br>
 ⚫️ Inspired by real-world parallax scrolling websites and interactive UI principles.<br>
 <hr>
 
